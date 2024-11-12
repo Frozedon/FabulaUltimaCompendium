@@ -1,0 +1,203 @@
+{
+    "name": "fabula-ultima-compendium",
+    "title": "Fabula Ultima Compendium",
+    "author": "Frozedon",
+    "description": "All the Fabula Ultima Items to share across worlds.",
+    "packs": [
+		{
+			"label": "Classes",
+			"type": "Item",
+			"name": "classes",
+			"path": "packs/classes",
+			"system": "projectfu",
+			"ownership": {
+				"PLAYER": "OBSERVER",
+				"ASSISTANT": "OWNER"
+			},
+			"flags": {}
+		},
+		{
+			"label": "Class Skills",
+			"type": "Item",
+			"name": "class-skills",
+			"path": "packs/class-skills",
+			"system": "projectfu",
+			"ownership": {
+				"PLAYER": "OBSERVER",
+				"ASSISTANT": "OWNER"
+			},
+			"flags": {}
+		},
+		{
+			"label": "Basic Equipment",
+			"type": "Item",
+			"name": "basic-equipment",
+			"path": "packs/basic-equipment",
+			"system": "projectfu",
+			"ownership": {
+				"PLAYER": "OBSERVER",
+				"ASSISTANT": "OWNER"
+			},
+			"flags": {}
+		},
+		{
+			"label": "Rare Equipment",
+			"type": "Item",
+			"name": "rare-equipment",
+			"path": "packs/rare-equipment",
+			"system": "projectfu",
+			"ownership": {
+				"PLAYER": "OBSERVER",
+				"ASSISTANT": "OWNER"
+			},
+			"flags": {}
+		},
+		{
+		  "label": "Heroic Skills",
+		  "type": "Item",
+		  "name": "heroic-skills",
+		  "path": "packs/heroic-skills",
+		  "system": "projectfu",
+		  "ownership": {
+			"PLAYER": "OBSERVER",
+			"ASSISTANT": "OWNER"
+		  },
+		  "flags": {}
+		},
+		{
+		  "label": "Heroic Style Skills",
+		  "type": "Item",
+		  "name": "heroic-style-skills",
+		  "path": "packs/heroic-style-skills",
+		  "system": "projectfu",
+		  "ownership": {
+			"PLAYER": "OBSERVER",
+			"ASSISTANT": "OWNER"
+		  },
+		  "flags": {}
+		},
+		{
+		  "label": "NPC Skills",
+		  "type": "Item",
+		  "name": "npc-skills",
+		  "path": "packs/npc-skills",
+		  "system": "projectfu",
+		  "ownership": {
+			"PLAYER": "OBSERVER",
+			"ASSISTANT": "OWNER"
+		  },
+		  "flags": {}
+		},
+		{
+		  "label": "Beastiary",
+		  "type": "Actor",
+		  "name": "beastiary",
+		  "path": "packs/beastiary",
+		  "system": "projectfu",
+		  "ownership": {
+			"PLAYER": "OBSERVER",
+			"ASSISTANT": "OWNER"
+		  },
+		  "flags": {}
+		},
+		{
+		  "label": "Animation Macros",
+		  "type": "Macro",
+		  "name": "animation-macros",
+		  "path": "packs/animation-macros",
+		  "system": "projectfu",
+		  "ownership": {
+			"PLAYER": "OBSERVER",
+			"ASSISTANT": "OWNER"
+		  },
+		  "flags": {}
+		},
+		{
+		  "label": "Rollable Tables",
+		  "type": "RollTable",
+		  "name": "rollable-tables",
+		  "path": "packs/rollable-tables",
+		  "system": "projectfu",
+		  "ownership": {
+			"PLAYER": "OBSERVER",
+			"ASSISTANT": "OWNER"
+		  },
+		  "flags": {}
+		},
+		{
+		  "label": "Handouts",
+		  "type": "JournalEntry",
+		  "name": "handouts",
+		  "path": "packs/handouts",
+		  "system": "projectfu",
+		  "ownership": {
+			"PLAYER": "OBSERVER",
+			"ASSISTANT": "OWNER"
+		  },
+		  "flags": {}
+		},
+		{
+		  "label": "Effects",
+		  "type": "Item",
+		  "name": "effects",
+		  "path": "packs/effects",
+		  "system": "projectfu",
+		  "ownership": {
+			"PLAYER": "OBSERVER",
+			"ASSISTANT": "OWNER"
+		  },
+		  "flags": {}
+		}
+	],
+	"packFolders": [
+		{
+			"name": "FabUlt Compendium",
+			"sorting": "m",
+			"folders":[
+				{
+					"name": "Character Creation",
+					"sorting": "a",
+					"color": "#276625",
+					"packs": ["classes", "class-skills", "heroic-skills", "heroic-style-skills"]
+				},
+				{
+					"name": "Equipment",
+					"sorting": "a",
+					"color": "#005390",
+					"packs": ["basic-equipment", "rare-equipment"]
+				},
+				{
+					"name": "GM Tools",
+					"sorting": "a",
+					"color": "#831101",
+					"packs": ["beastiary", "npc-skills", "rollable-tables", "animation-macros"]
+				},
+				{
+					"name": "Handouts",
+					"sorting": "a",
+					"color": "#237B71",
+					"packs": ["handouts"]
+				},
+				{
+					"name": "Technical",
+					"sorting": "a",
+					"color": "#A17E1B",
+					"packs": ["effects"]
+				}
+			]
+		}
+	],
+    "id": "fabula-ultima-compendium",
+    "authors": [
+        {
+            "name": "Frozedon"
+        }
+    ],
+	"coreVersion": "11.315",
+    "compatibleCoreVersion": "11",
+    "compatibility": {
+        "minimum": 11,
+        "verified": 11
+    },
+    "version": "1.1"
+}
