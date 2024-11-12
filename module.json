@@ -13,7 +13,7 @@
 	},
 	"url": "https://github.com/Frozedon/FabulaUltimaCompendium",
 	"manifest": "https://github.com/Frozedon/FabulaUltimaCompendium/releases/download/1.0.0/module.json",
-	"download": "https://github.com/Frozedon/FabulaUltimaCompendium/releases/download/1.0.0/releasemodule.zip",
+	"download": "https://github.com/Frozedon/FabulaUltimaCompendium/releases/download/1.0.0/fabulaultimacompendium.zip",
 	"packs": [
 		{
 			"label": "Classes",
