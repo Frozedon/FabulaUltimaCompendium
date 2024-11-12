@@ -1,9 +1,19 @@
 {
 	"name": "fabula-ultima-compendium",
 	"title": "Fabula Ultima Compendium",
+	"id": "fabula-ultima-compendium",
 	"author": "Frozedon",
 	"description": "All the Fabula Ultima Items to share across worlds.",
 	"version": "1.0.0",
+	"minimumCoreVersion": "11",
+	"compatibleCoreVersion": "11",
+	"compatibility": {
+			"minimum": 11,
+			"verified": 11
+	},
+	"url": "https://github.com/Frozedon/fabula-ultima-compendium",
+	"manifest": "https://github.com/Frozedon/fabula-ultima-compendium/releases/download/1.0.0/module.json",
+	"download": "https://github.com/Frozedon/fabula-ultima-compendium/releases/download/1.0.0/releasemodule.zip",
 	"packs": [
 		{
 			"label": "Classes",
@@ -187,20 +197,5 @@
 				}
 			]
 		}
-	],
-	"id": "fabula-ultima-compendium",
-	"authors": [
-			{
-					"name": "Frozedon"
-			}
-	],
-	"minimumCoreVersion": "11",
-	"compatibleCoreVersion": "11",
-	"compatibility": {
-			"minimum": 11,
-			"verified": 11
-	},
-	"url": "https://github.com/Frozedon/fabula-ultima-compendium",
-	"manfiest": "",
-	"download": ""
+	]
 }
