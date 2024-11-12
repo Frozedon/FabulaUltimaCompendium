@@ -1,3 +1,7 @@
-2024/11/06-11:45:11.523 eca0 Recovering log #15
-2024/11/06-11:45:11.528 eca0 Delete type=0 #15
-2024/11/06-11:45:11.529 eca0 Delete type=3 #14
+2024/11/12-10:18:37.920 f894 Log #20: 39 ops saved to Table #21 OK
+2024/11/12-10:18:37.921 f894 Archiving C:\Users\awrdp\AppData\Local\FoundryVTT\Data\modules\fabula-ultima-compendium\packs\effects/000020.log: OK
+2024/11/12-10:18:37.922 f894 Table #13: 36 entries OK
+2024/11/12-10:18:37.922 f894 Table #19: 180 entries OK
+2024/11/12-10:18:37.922 f894 Table #21: 39 entries OK
+2024/11/12-10:18:37.926 f894 Archiving C:\Users\awrdp\AppData\Local\FoundryVTT\Data\modules\fabula-ultima-compendium\packs\effects/MANIFEST-000018: OK
+2024/11/12-10:18:37.931 f894 **** Repaired leveldb C:\Users\awrdp\AppData\Local\FoundryVTT\Data\modules\fabula-ultima-compendium\packs\effects; recovered 3 files; 37860 bytes. Some data may have been lost. ****

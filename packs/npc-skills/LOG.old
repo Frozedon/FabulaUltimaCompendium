@@ -1,3 +1,5 @@
-2024/11/06-11:45:11.450 12aac Recovering log #209
-2024/11/06-11:45:11.456 12aac Delete type=0 #209
-2024/11/06-11:45:11.456 12aac Delete type=3 #208
+2024/11/12-10:18:37.763 13108 Log #213: 0 ops saved to Table #214 OK
+2024/11/12-10:18:37.765 13108 Archiving C:\Users\awrdp\AppData\Local\FoundryVTT\Data\modules\fabula-ultima-compendium\packs\npc-skills/000213.log: OK
+2024/11/12-10:18:37.766 13108 Table #159: 75 entries OK
+2024/11/12-10:18:37.770 13108 Archiving C:\Users\awrdp\AppData\Local\FoundryVTT\Data\modules\fabula-ultima-compendium\packs\npc-skills/MANIFEST-000212: OK
+2024/11/12-10:18:37.775 13108 **** Repaired leveldb C:\Users\awrdp\AppData\Local\FoundryVTT\Data\modules\fabula-ultima-compendium\packs\npc-skills; recovered 1 files; 43959 bytes. Some data may have been lost. ****

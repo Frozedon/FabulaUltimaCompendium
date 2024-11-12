@@ -1,3 +1,5 @@
-2024/11/06-11:45:11.403 eca0 Recovering log #103
-2024/11/06-11:45:11.410 eca0 Delete type=0 #103
-2024/11/06-11:45:11.410 eca0 Delete type=3 #102
+2024/11/12-10:18:37.666 13404 Log #107: 0 ops saved to Table #108 OK
+2024/11/12-10:18:37.668 13404 Archiving C:\Users\awrdp\AppData\Local\FoundryVTT\Data\modules\fabula-ultima-compendium\packs\rare-equipment/000107.log: OK
+2024/11/12-10:18:37.669 13404 Table #11: 194 entries OK
+2024/11/12-10:18:37.671 13404 Archiving C:\Users\awrdp\AppData\Local\FoundryVTT\Data\modules\fabula-ultima-compendium\packs\rare-equipment/MANIFEST-000106: OK
+2024/11/12-10:18:37.677 13404 **** Repaired leveldb C:\Users\awrdp\AppData\Local\FoundryVTT\Data\modules\fabula-ultima-compendium\packs\rare-equipment; recovered 1 files; 76839 bytes. Some data may have been lost. ****

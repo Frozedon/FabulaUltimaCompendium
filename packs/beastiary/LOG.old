@@ -1,3 +1,5 @@
-2024/11/06-11:45:11.465 eca0 Recovering log #854
-2024/11/06-11:45:11.470 eca0 Delete type=0 #854
-2024/11/06-11:45:11.471 eca0 Delete type=3 #853
+2024/11/12-10:18:37.794 13404 Log #858: 0 ops saved to Table #859 OK
+2024/11/12-10:18:37.796 13404 Archiving C:\Users\awrdp\AppData\Local\FoundryVTT\Data\modules\fabula-ultima-compendium\packs\beastiary/000858.log: OK
+2024/11/12-10:18:37.797 13404 Table #718: 377 entries OK
+2024/11/12-10:18:37.801 13404 Archiving C:\Users\awrdp\AppData\Local\FoundryVTT\Data\modules\fabula-ultima-compendium\packs\beastiary/MANIFEST-000857: OK
+2024/11/12-10:18:37.806 13404 **** Repaired leveldb C:\Users\awrdp\AppData\Local\FoundryVTT\Data\modules\fabula-ultima-compendium\packs\beastiary; recovered 1 files; 266506 bytes. Some data may have been lost. ****

@@ -1,3 +1,5 @@
-2024/11/06-11:45:11.347 12aac Recovering log #1067
-2024/11/06-11:45:11.355 12aac Delete type=0 #1067
-2024/11/06-11:45:11.356 12aac Delete type=3 #1066
+2024/11/12-10:18:37.558 13108 Log #1071: 0 ops saved to Table #1072 OK
+2024/11/12-10:18:37.560 13108 Archiving C:\Users\awrdp\AppData\Local\FoundryVTT\Data\modules\fabula-ultima-compendium\packs\classes/001071.log: OK
+2024/11/12-10:18:37.560 13108 Table #1065: 27 entries OK
+2024/11/12-10:18:37.565 13108 Archiving C:\Users\awrdp\AppData\Local\FoundryVTT\Data\modules\fabula-ultima-compendium\packs\classes/MANIFEST-001070: OK
+2024/11/12-10:18:37.570 13108 **** Repaired leveldb C:\Users\awrdp\AppData\Local\FoundryVTT\Data\modules\fabula-ultima-compendium\packs\classes; recovered 1 files; 90378 bytes. Some data may have been lost. ****

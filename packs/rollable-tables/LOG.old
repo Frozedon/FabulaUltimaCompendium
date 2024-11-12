@@ -1,3 +1,5 @@
-2024/11/06-11:45:11.495 eca0 Recovering log #288
-2024/11/06-11:45:11.501 eca0 Delete type=0 #288
-2024/11/06-11:45:11.501 eca0 Delete type=3 #287
+2024/11/12-10:18:37.856 13404 Log #292: 0 ops saved to Table #293 OK
+2024/11/12-10:18:37.858 13404 Archiving C:\Users\awrdp\AppData\Local\FoundryVTT\Data\modules\fabula-ultima-compendium\packs\rollable-tables/000292.log: OK
+2024/11/12-10:18:37.859 13404 Table #24: 66 entries OK
+2024/11/12-10:18:37.862 13404 Archiving C:\Users\awrdp\AppData\Local\FoundryVTT\Data\modules\fabula-ultima-compendium\packs\rollable-tables/MANIFEST-000291: OK
+2024/11/12-10:18:37.868 13404 **** Repaired leveldb C:\Users\awrdp\AppData\Local\FoundryVTT\Data\modules\fabula-ultima-compendium\packs\rollable-tables; recovered 1 files; 15532 bytes. Some data may have been lost. ****
