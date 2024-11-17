@@ -1,7 +1,10 @@
-2024/11/12-10:18:37.920 f894 Log #20: 39 ops saved to Table #21 OK
-2024/11/12-10:18:37.921 f894 Archiving C:\Users\awrdp\AppData\Local\FoundryVTT\Data\modules\fabula-ultima-compendium\packs\effects/000020.log: OK
-2024/11/12-10:18:37.922 f894 Table #13: 36 entries OK
-2024/11/12-10:18:37.922 f894 Table #19: 180 entries OK
-2024/11/12-10:18:37.922 f894 Table #21: 39 entries OK
-2024/11/12-10:18:37.926 f894 Archiving C:\Users\awrdp\AppData\Local\FoundryVTT\Data\modules\fabula-ultima-compendium\packs\effects/MANIFEST-000018: OK
-2024/11/12-10:18:37.931 f894 **** Repaired leveldb C:\Users\awrdp\AppData\Local\FoundryVTT\Data\modules\fabula-ultima-compendium\packs\effects; recovered 3 files; 37860 bytes. Some data may have been lost. ****
+2024/11/16-10:43:31.700 126cc Recovering log #44
+2024/11/16-10:43:31.707 126cc Delete type=0 #44
+2024/11/16-10:43:31.708 126cc Delete type=3 #42
+2024/11/16-20:51:31.923 14010 Compacting 2@0 + 1@1 files
+2024/11/16-20:51:31.928 14010 Generated table #47@0: 123 keys, 30704 bytes
+2024/11/16-20:51:31.928 14010 Compacted 2@0 + 1@1 files => 30704 bytes
+2024/11/16-20:51:31.930 14010 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/11/16-20:51:31.930 14010 Delete type=2 #34
+2024/11/16-20:51:31.931 14010 Delete type=2 #38
+2024/11/16-20:51:31.931 14010 Delete type=2 #43

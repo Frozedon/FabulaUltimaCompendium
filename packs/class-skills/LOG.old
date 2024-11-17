@@ -1,7 +1,10 @@
-2024/11/12-10:18:37.594 f894 Log #1054: 33 ops saved to Table #1055 OK
-2024/11/12-10:18:37.596 f894 Archiving C:\Users\awrdp\AppData\Local\FoundryVTT\Data\modules\fabula-ultima-compendium\packs\class-skills/001054.log: OK
-2024/11/12-10:18:37.598 f894 Table #1047: 455 entries OK
-2024/11/12-10:18:37.599 f894 Table #1053: 180 entries OK
-2024/11/12-10:18:37.600 f894 Table #1055: 33 entries OK
-2024/11/12-10:18:37.605 f894 Archiving C:\Users\awrdp\AppData\Local\FoundryVTT\Data\modules\fabula-ultima-compendium\packs\class-skills/MANIFEST-001052: OK
-2024/11/12-10:18:37.610 f894 **** Repaired leveldb C:\Users\awrdp\AppData\Local\FoundryVTT\Data\modules\fabula-ultima-compendium\packs\class-skills; recovered 3 files; 545872 bytes. Some data may have been lost. ****
+2024/11/16-10:43:31.528 126cc Recovering log #1078
+2024/11/16-10:43:31.533 126cc Delete type=0 #1078
+2024/11/16-10:43:31.534 126cc Delete type=3 #1076
+2024/11/16-11:03:50.165 14010 Compacting 2@0 + 1@1 files
+2024/11/16-11:03:50.178 14010 Generated table #1081@0: 455 keys, 378220 bytes
+2024/11/16-11:03:50.178 14010 Compacted 2@0 + 1@1 files => 378220 bytes
+2024/11/16-11:03:50.179 14010 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/11/16-11:03:50.180 14010 Delete type=2 #1068
+2024/11/16-11:03:50.180 14010 Delete type=2 #1072
+2024/11/16-11:03:50.181 14010 Delete type=2 #1077

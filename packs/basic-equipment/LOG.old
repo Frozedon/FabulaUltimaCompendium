@@ -1,6 +1,3 @@
-2024/11/12-10:18:37.637 13db8 Log #919: 0 ops saved to Table #920 OK
-2024/11/12-10:18:37.638 13db8 Archiving C:\Users\awrdp\AppData\Local\FoundryVTT\Data\modules\fabula-ultima-compendium\packs\basic-equipment/000919.log: OK
-2024/11/12-10:18:37.639 13db8 Table #818: 13 entries OK
-2024/11/12-10:18:37.639 13db8 Table #823: 56 entries OK
-2024/11/12-10:18:37.643 13db8 Archiving C:\Users\awrdp\AppData\Local\FoundryVTT\Data\modules\fabula-ultima-compendium\packs\basic-equipment/MANIFEST-000918: OK
-2024/11/12-10:18:37.648 13db8 **** Repaired leveldb C:\Users\awrdp\AppData\Local\FoundryVTT\Data\modules\fabula-ultima-compendium\packs\basic-equipment; recovered 2 files; 17418 bytes. Some data may have been lost. ****
+2024/11/16-10:43:31.551 133b0 Recovering log #939
+2024/11/16-10:43:31.557 133b0 Delete type=0 #939
+2024/11/16-10:43:31.557 133b0 Delete type=3 #938

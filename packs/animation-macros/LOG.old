@@ -1,5 +1,3 @@
-2024/11/12-10:18:37.827 13db8 Log #882: 0 ops saved to Table #883 OK
-2024/11/12-10:18:37.829 13db8 Archiving C:\Users\awrdp\AppData\Local\FoundryVTT\Data\modules\fabula-ultima-compendium\packs\animation-macros/000882.log: OK
-2024/11/12-10:18:37.829 13db8 Table #582: 23 entries OK
-2024/11/12-10:18:37.833 13db8 Archiving C:\Users\awrdp\AppData\Local\FoundryVTT\Data\modules\fabula-ultima-compendium\packs\animation-macros/MANIFEST-000881: OK
-2024/11/12-10:18:37.838 13db8 **** Repaired leveldb C:\Users\awrdp\AppData\Local\FoundryVTT\Data\modules\fabula-ultima-compendium\packs\animation-macros; recovered 1 files; 17548 bytes. Some data may have been lost. ****
+2024/11/16-10:43:31.654 133b0 Recovering log #902
+2024/11/16-10:43:31.660 133b0 Delete type=0 #902
+2024/11/16-10:43:31.660 133b0 Delete type=3 #901

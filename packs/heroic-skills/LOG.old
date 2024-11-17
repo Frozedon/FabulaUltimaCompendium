@@ -1,5 +1,3 @@
-2024/11/12-10:18:37.695 13db8 Log #670: 0 ops saved to Table #671 OK
-2024/11/12-10:18:37.697 13db8 Archiving C:\Users\awrdp\AppData\Local\FoundryVTT\Data\modules\fabula-ultima-compendium\packs\heroic-skills/000670.log: OK
-2024/11/12-10:18:37.698 13db8 Table #664: 127 entries OK
-2024/11/12-10:18:37.703 13db8 Archiving C:\Users\awrdp\AppData\Local\FoundryVTT\Data\modules\fabula-ultima-compendium\packs\heroic-skills/MANIFEST-000669: OK
-2024/11/12-10:18:37.707 13db8 **** Repaired leveldb C:\Users\awrdp\AppData\Local\FoundryVTT\Data\modules\fabula-ultima-compendium\packs\heroic-skills; recovered 1 files; 108271 bytes. Some data may have been lost. ****
+2024/11/16-10:43:31.581 133b0 Recovering log #691
+2024/11/16-10:43:31.587 133b0 Delete type=0 #691
+2024/11/16-10:43:31.587 133b0 Delete type=3 #690
