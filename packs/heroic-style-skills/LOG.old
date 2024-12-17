@@ -1,3 +1,5 @@
-2024/11/17-13:11:45.164 55ac Recovering log #96
-2024/11/17-13:11:45.169 55ac Delete type=0 #96
-2024/11/17-13:11:45.170 55ac Delete type=3 #94
+2024/12/15-20:40:50.609 ab0 Recovering log #145
+2024/12/15-20:40:50.609 ab0 Level-0 table #147: started
+2024/12/15-20:40:50.611 ab0 Level-0 table #147: 2011 bytes OK
+2024/12/15-20:40:50.617 ab0 Delete type=0 #145
+2024/12/15-20:40:50.617 ab0 Delete type=3 #144
