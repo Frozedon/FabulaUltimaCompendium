@@ -167,33 +167,33 @@
 			"folders":[
 				{
 					"name": "Character Creation",
-					"sorting": "a",
+					"sorting": "m",
 					"color": "#276625",
 					"packs": ["classes", "class-skills", "heroic-skills", "heroic-style-skills"]
 				},
 				{
 					"name": "Equipment",
-					"sorting": "a",
+					"sorting": "m",
 					"color": "#005390",
 					"packs": ["basic-equipment", "rare-equipment"]
 				},
 				{
-					"name": "GM Tools",
-					"sorting": "a",
-					"color": "#831101",
-					"packs": ["beastiary", "npc-skills", "rollable-tables", "animation-macros"]
-				},
-				{
 					"name": "Handouts",
-					"sorting": "a",
+					"sorting": "m",
 					"color": "#237B71",
 					"packs": ["handouts"]
 				},
 				{
+					"name": "GM Tools",
+					"sorting": "m",
+					"color": "#831101",
+					"packs": ["beastiary", "npc-skills"]
+				},
+				{
 					"name": "Technical",
-					"sorting": "a",
+					"sorting": "m",
 					"color": "#A17E1B",
-					"packs": ["effects"]
+					"packs": ["effects", "rollable-tables", "animation-macros"]
 				}
 			]
 		}
