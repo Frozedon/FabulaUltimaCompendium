@@ -148,6 +148,18 @@
 		  "flags": {}
 		},
 		{
+		  "label": "Rules Features",
+		  "type": "Item",
+		  "name": "rules-features",
+		  "path": "packs/rules-features",
+		  "system": "projectfu",
+		  "ownership": {
+			"PLAYER": "OBSERVER",
+			"ASSISTANT": "OWNER"
+		  },
+		  "flags": {}
+		},
+		{
 		  "label": "Effects",
 		  "type": "Item",
 		  "name": "effects",
@@ -178,10 +190,10 @@
 					"packs": ["basic-equipment", "rare-equipment"]
 				},
 				{
-					"name": "Handouts",
+					"name": "Rules",
 					"sorting": "m",
 					"color": "#237B71",
-					"packs": ["handouts"]
+					"packs": ["handouts","rules-features"]
 				},
 				{
 					"name": "GM Tools",
