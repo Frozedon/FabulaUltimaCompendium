@@ -2,14 +2,18 @@
 	"name": "fabula-ultima-compendium",
 	"id": "fabula-ultima-compendium",
 	"title": "Fabula Ultima Compendium",
-	"author": "Frozedon",
+    "authors": [
+        {
+            "name": "Frozedon"
+        }
+    ],
 	"description": "All the Fabula Ultima Items to share across worlds.",
 	"version": "1.1.0",
 	"minimumCoreVersion": "11",
 	"compatibleCoreVersion": "11",
 	"compatibility": {
 			"minimum": 11,
-			"verified": 11
+			"verified": 12.331
 	},
 	"url": "https://github.com/Frozedon/FabulaUltimaCompendium",
 	"manifest": "https://github.com/Frozedon/FabulaUltimaCompendium/releases/latest/download/module.json",
