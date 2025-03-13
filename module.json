@@ -164,16 +164,29 @@
 		  "flags": {}
 		},
 		{
-		  "label": "Effects",
-		  "type": "Item",
-		  "name": "effects",
-		  "path": "packs/effects",
-		  "system": "projectfu",
-		  "ownership": {
-			"PLAYER": "OBSERVER",
-			"ASSISTANT": "OWNER"
-		  },
-		  "flags": {}
+			"label": "Effects",
+			"type": "Item",
+			"name": "effects",
+			"path": "packs/effects",
+			"system": "projectfu",
+			"ownership": {
+				"PLAYER": "OBSERVER",
+				"ASSISTANT": "OWNER"
+			},
+			"flags": {}
+		},
+		
+		{
+			"label": "Camp Activities",
+			"type": "Item",
+			"name": "camp-activities",
+			"path": "packs/camp-activities",
+			"system": "projectfu",
+			"ownership": {
+				"PLAYER": "OBSERVER",
+				"ASSISTANT": "OWNER"
+			},
+			"flags": {}
 		}
 	],
 	"packFolders": [
@@ -197,7 +210,7 @@
 					"name": "Rules",
 					"sorting": "m",
 					"color": "#237B71",
-					"packs": ["handouts","rules-features"]
+					"packs": ["handouts","rules-features","camp-activities"]
 				},
 				{
 					"name": "GM Tools",
