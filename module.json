@@ -10,7 +10,7 @@
 	"description": "All the Fabula Ultima Items to share across worlds.",
 	"version": "1.2.0",
 	"minimumCoreVersion": "11",
-	"compatibleCoreVersion": "11",
+	"compatibleCoreVersion": "12",
 	"compatibility": {
 			"minimum": 11,
 			"verified": 12.331
@@ -48,6 +48,18 @@
 			"type": "Item",
 			"name": "basic-equipment",
 			"path": "packs/basic-equipment",
+			"system": "projectfu",
+			"ownership": {
+				"PLAYER": "OBSERVER",
+				"ASSISTANT": "OWNER"
+			},
+			"flags": {}
+		},
+		{
+			"label": "Consumables",
+			"type": "Item",
+			"name": "consumables",
+			"path": "packs/consumables",
 			"system": "projectfu",
 			"ownership": {
 				"PLAYER": "OBSERVER",
@@ -204,7 +216,7 @@
 					"name": "Equipment",
 					"sorting": "m",
 					"color": "#005390",
-					"packs": ["basic-equipment", "rare-equipment"]
+					"packs": ["basic-equipment", "consumables", "rare-equipment"]
 				},
 				{
 					"name": "Rules",
