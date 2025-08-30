@@ -1,7 +1,6 @@
-2025/08/29-11:08:05.298 8150 Recovering log #2208
-2025/08/29-11:08:05.305 8150 Delete type=0 #2208
-2025/08/29-11:08:05.305 8150 Delete type=3 #2207
-2025/08/29-11:08:34.971 8280 Level-0 table #2212: started
-2025/08/29-11:08:34.972 8280 Level-0 table #2212: 0 bytes OK
-2025/08/29-11:08:34.973 8280 Delete type=0 #2210
-2025/08/29-11:08:34.974 8280 Manual compaction at level-0 from '!folders!BugGGLTRzhiduRA1' @ 72057594037927935 : 1 .. '!items.effects!vKVXHMBq0H9uFUcR.ekimh5Th1jqRD2WX' @ 0 : 0; will stop at (end)
+2025/08/29-18:25:53.655 7e20 Log #2214: 43 ops saved to Table #2215 OK
+2025/08/29-18:25:53.657 7e20 Archiving D:\FoundryVTT\v12\Data\modules\frozedon-fabula-compendium\packs\heroic-skills/002214.log: OK
+2025/08/29-18:25:53.658 7e20 Table #2198: 155 entries OK
+2025/08/29-18:25:53.659 7e20 Table #2215: 43 entries OK
+2025/08/29-18:25:53.665 7e20 Archiving D:\FoundryVTT\v12\Data\modules\frozedon-fabula-compendium\packs\heroic-skills/MANIFEST-002213: OK
+2025/08/29-18:25:53.672 7e20 **** Repaired leveldb D:\FoundryVTT\v12\Data\modules\frozedon-fabula-compendium\packs\heroic-skills; recovered 2 files; 193600 bytes. Some data may have been lost. ****

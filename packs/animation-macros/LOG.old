@@ -1,7 +1,5 @@
-2025/08/29-11:08:05.492 4fd4 Recovering log #2397
-2025/08/29-11:08:05.499 4fd4 Delete type=0 #2397
-2025/08/29-11:08:05.499 4fd4 Delete type=3 #2396
-2025/08/29-11:08:35.057 8280 Level-0 table #2401: started
-2025/08/29-11:08:35.057 8280 Level-0 table #2401: 0 bytes OK
-2025/08/29-11:08:35.059 8280 Delete type=0 #2399
-2025/08/29-11:08:35.059 8280 Manual compaction at level-0 from '!folders!CKVCLHuM1iNxCEvn' @ 72057594037927935 : 1 .. '!macros!yEGzlneMr4Jict6y' @ 0 : 0; will stop at (end)
+2025/08/29-18:25:54.283 2ec8 Log #2403: 0 ops saved to Table #2404 OK
+2025/08/29-18:25:54.284 2ec8 Archiving D:\FoundryVTT\v12\Data\modules\frozedon-fabula-compendium\packs\animation-macros/002403.log: OK
+2025/08/29-18:25:54.285 2ec8 Table #1859: 30 entries OK
+2025/08/29-18:25:54.291 2ec8 Archiving D:\FoundryVTT\v12\Data\modules\frozedon-fabula-compendium\packs\animation-macros/MANIFEST-002402: OK
+2025/08/29-18:25:54.298 2ec8 **** Repaired leveldb D:\FoundryVTT\v12\Data\modules\frozedon-fabula-compendium\packs\animation-macros; recovered 1 files; 26823 bytes. Some data may have been lost. ****

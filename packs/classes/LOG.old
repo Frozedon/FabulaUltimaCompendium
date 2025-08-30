@@ -1,7 +1,6 @@
-2025/08/29-11:08:05.266 4fd4 Recovering log #2585
-2025/08/29-11:08:05.273 4fd4 Delete type=0 #2585
-2025/08/29-11:08:05.273 4fd4 Delete type=3 #2584
-2025/08/29-11:08:34.942 8280 Level-0 table #2589: started
-2025/08/29-11:08:34.942 8280 Level-0 table #2589: 0 bytes OK
-2025/08/29-11:08:34.944 8280 Delete type=0 #2587
-2025/08/29-11:08:34.945 8280 Manual compaction at level-0 from '!items!2TGBnbQimErcrdvb' @ 72057594037927935 : 1 .. '!items!xOf3JAD4vD4xbeNx' @ 0 : 0; will stop at (end)
+2025/08/29-18:25:53.554 1a50 Log #2591: 96 ops saved to Table #2592 OK
+2025/08/29-18:25:53.557 1a50 Archiving D:\FoundryVTT\v12\Data\modules\frozedon-fabula-compendium\packs\classes/002591.log: OK
+2025/08/29-18:25:53.558 1a50 Table #2499: 27 entries OK
+2025/08/29-18:25:53.560 1a50 Table #2592: 96 entries OK
+2025/08/29-18:25:53.566 1a50 Archiving D:\FoundryVTT\v12\Data\modules\frozedon-fabula-compendium\packs\classes/MANIFEST-002590: OK
+2025/08/29-18:25:53.571 1a50 **** Repaired leveldb D:\FoundryVTT\v12\Data\modules\frozedon-fabula-compendium\packs\classes; recovered 2 files; 418757 bytes. Some data may have been lost. ****
