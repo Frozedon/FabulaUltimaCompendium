@@ -1,1 +1,7 @@
-2025/08/29-18:25:53.733 2ec8 Delete type=3 #1
+2025/09/18-14:51:42.542 397c Recovering log #1631
+2025/09/18-14:51:42.551 397c Delete type=0 #1631
+2025/09/18-14:51:42.552 397c Delete type=3 #1630
+2025/09/18-16:08:46.652 3df4 Level-0 table #1635: started
+2025/09/18-16:08:46.653 3df4 Level-0 table #1635: 0 bytes OK
+2025/09/18-16:08:46.659 3df4 Delete type=0 #1633
+2025/09/18-16:08:46.677 3df4 Manual compaction at level-0 from '!folders!ZwW23hY4dzVQe3Sc' @ 72057594037927935 : 1 .. '!items.effects!wurCkBtOaZaV2t69.uvgeVSGUyrtnrnct' @ 0 : 0; will stop at (end)

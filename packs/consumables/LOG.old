@@ -1,6 +1,3 @@
-2025/08/29-18:25:53.799 7e20 Log #2426: 5 ops saved to Table #2427 OK
-2025/08/29-18:25:53.801 7e20 Archiving D:\FoundryVTT\v12\Data\modules\frozedon-fabula-compendium\packs\consumables/002426.log: OK
-2025/08/29-18:25:53.801 7e20 Table #2410: 5 entries OK
-2025/08/29-18:25:53.802 7e20 Table #2427: 5 entries OK
-2025/08/29-18:25:53.809 7e20 Archiving D:\FoundryVTT\v12\Data\modules\frozedon-fabula-compendium\packs\consumables/MANIFEST-002425: OK
-2025/08/29-18:25:53.818 7e20 **** Repaired leveldb D:\FoundryVTT\v12\Data\modules\frozedon-fabula-compendium\packs\consumables; recovered 2 files; 3045 bytes. Some data may have been lost. ****
+2025/09/18-11:20:18.375 7be4 Recovering log #2461
+2025/09/18-11:20:18.382 7be4 Delete type=0 #2461
+2025/09/18-11:20:18.383 7be4 Delete type=3 #2459

@@ -1,6 +1,3 @@
-2025/08/29-18:25:54.193 2ec8 Log #1614: 64 ops saved to Table #1615 OK
-2025/08/29-18:25:54.195 2ec8 Archiving D:\FoundryVTT\v12\Data\modules\frozedon-fabula-compendium\packs\effects/001614.log: OK
-2025/08/29-18:25:54.197 2ec8 Table #1540: 1053 entries OK
-2025/08/29-18:25:54.197 2ec8 Table #1615: 64 entries OK
-2025/08/29-18:25:54.204 2ec8 Archiving D:\FoundryVTT\v12\Data\modules\frozedon-fabula-compendium\packs\effects/MANIFEST-001613: OK
-2025/08/29-18:25:54.211 2ec8 **** Repaired leveldb D:\FoundryVTT\v12\Data\modules\frozedon-fabula-compendium\packs\effects; recovered 2 files; 385440 bytes. Some data may have been lost. ****
+2025/09/18-11:20:18.505 7be4 Recovering log #1649
+2025/09/18-11:20:18.511 7be4 Delete type=0 #1649
+2025/09/18-11:20:18.512 7be4 Delete type=3 #1647
