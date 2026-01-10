@@ -3,9 +3,9 @@
 	"id": "frozedon-fabula-compendium",
 	"title": "Frozedon's Fabula Compendium",
     "authors": [
-        {
-            "name": "Frozedon"
-        }
+      {
+        "name": "Frozedon"
+      }
     ],
 	"description": "All the Fabula Ultima Items to share across worlds.",
 	"version": "3.0.1",
@@ -102,10 +102,10 @@
 			"flags": {}
 		},
 		{
-		  "label": "Beastiary",
+		  "label": "Bestiary",
 		  "type": "Actor",
-		  "name": "beastiary",
-		  "path": "packs/beastiary",
+		  "name": "bestiary",
+		  "path": "packs/bestiary",
 		  "system": "projectfu",
 		  "ownership": {
 			"PLAYER": "OBSERVER",
@@ -113,6 +113,18 @@
 		  },
 		  "flags": {}
 		},
+    {
+      "label": "Bestiary Details",
+      "type": "JournalEntry",
+      "name": "bestiary-details",
+      "path": "packs/bestiary-details",
+      "system": "projectfu",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
 		{
 		  "label": "NPC Skills",
 		  "type": "Item",
@@ -225,7 +237,7 @@
 					"name": "GM Tools",
 					"sorting": "m",
 					"color": "#b01703",
-					"packs": ["beastiary", "npc-skills"]
+					"packs": ["bestiary", "bestiary-details", "npc-skills"]
 				},
 				{
 					"name": "Technical",

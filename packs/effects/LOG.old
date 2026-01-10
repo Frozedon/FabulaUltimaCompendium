@@ -1,3 +1,5 @@
-2026/01/02-14:49:35.998 71cc Recovering log #1878
-2026/01/02-14:49:36.008 71cc Delete type=0 #1878
-2026/01/02-14:49:36.008 71cc Delete type=3 #1877
+2026/01/09-20:00:43.337 debc Recovering log #1900
+2026/01/09-20:00:43.337 debc Level-0 table #1902: started
+2026/01/09-20:00:43.339 debc Level-0 table #1902: 1445 bytes OK
+2026/01/09-20:00:43.345 debc Delete type=0 #1900
+2026/01/09-20:00:43.346 debc Delete type=3 #1899
