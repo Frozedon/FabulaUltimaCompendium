@@ -1,5 +1,5 @@
-2026/01/15-10:13:33.553 8de4 Recovering log #2519
-2026/01/15-10:13:33.554 8de4 Level-0 table #2521: started
-2026/01/15-10:13:33.556 8de4 Level-0 table #2521: 1473 bytes OK
-2026/01/15-10:13:33.562 8de4 Delete type=0 #2519
-2026/01/15-10:13:33.562 8de4 Delete type=3 #2517
+2026/01/15-13:38:04.897 d5a8 Recovering log #2522
+2026/01/15-13:38:04.897 d5a8 Level-0 table #2524: started
+2026/01/15-13:38:04.903 d5a8 Level-0 table #2524: 91941 bytes OK
+2026/01/15-13:38:04.910 d5a8 Delete type=0 #2522
+2026/01/15-13:38:04.910 d5a8 Delete type=3 #2520

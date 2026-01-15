@@ -1,3 +1,11 @@
-2026/01/13-00:33:55.736 da8c Recovering log #3022
-2026/01/13-00:33:55.742 da8c Delete type=0 #3022
-2026/01/13-00:33:55.742 da8c Delete type=3 #3021
+2026/01/15-10:13:33.527 e380 Recovering log #3024
+2026/01/15-10:13:33.528 e380 Level-0 table #3026: started
+2026/01/15-10:13:33.530 e380 Level-0 table #3026: 21905 bytes OK
+2026/01/15-10:13:33.538 e380 Delete type=0 #3024
+2026/01/15-10:13:33.538 e380 Delete type=3 #3023
+2026/01/15-10:48:21.148 ff20 Compacting 1@0 + 1@1 files
+2026/01/15-10:48:21.169 ff20 Generated table #3028@0: 473 keys, 413952 bytes
+2026/01/15-10:48:21.169 ff20 Compacted 1@0 + 1@1 files => 413952 bytes
+2026/01/15-10:48:21.170 ff20 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/01/15-10:48:21.171 ff20 Delete type=2 #3020
+2026/01/15-10:48:21.172 ff20 Delete type=2 #3026
