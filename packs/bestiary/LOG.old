@@ -1,31 +1,20 @@
-2026/01/10-01:18:57.860 f244 Recovering log #2697
-2026/01/10-01:18:57.862 f244 Level-0 table #2700: started
-2026/01/10-01:18:57.872 f244 Level-0 table #2700: 393650 bytes OK
-2026/01/10-01:18:57.879 f244 Delete type=0 #2697
-2026/01/10-01:18:57.880 f244 Delete type=3 #2695
-2026/01/10-01:18:58.516 9928 Compacting 1@0 + 1@1 files
-2026/01/10-01:18:58.543 9928 Generated table #2702@0: 974 keys, 835576 bytes
-2026/01/10-01:18:58.543 9928 Compacted 1@0 + 1@1 files => 835576 bytes
-2026/01/10-01:18:58.544 9928 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/01/10-01:18:58.545 9928 Delete type=2 #2698
-2026/01/10-01:18:58.545 9928 Delete type=2 #2700
-2026/01/11-02:03:56.487 9928 Level-0 table #2704: started
-2026/01/11-02:03:56.552 9928 Level-0 table #2704: 1974018 bytes OK
-2026/01/11-02:03:56.555 9928 Delete type=0 #2701
-2026/01/11-06:09:19.450 9928 Compacting 1@0 + 1@1 files
-2026/01/11-06:09:19.490 9928 Generated table #2705@0: 1040 keys, 891756 bytes
-2026/01/11-06:09:19.491 9928 Compacted 1@0 + 1@1 files => 891756 bytes
-2026/01/11-06:09:19.492 9928 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/01/11-06:09:19.492 9928 Delete type=2 #2702
-2026/01/11-06:09:19.493 9928 Delete type=2 #2704
-2026/01/11-12:26:58.813 9928 Level-0 table #2707: started
-2026/01/11-12:26:58.848 9928 Level-0 table #2707: 1455000 bytes OK
-2026/01/11-12:26:58.850 9928 Delete type=0 #2703
-2026/01/11-12:26:58.871 9928 Manual compaction at level-0 from '!actors!03Rnxua6aeYrHyej' @ 72057594037927935 : 1 .. '!folders!x1PPBDhxtBQ21xTT' @ 0 : 0; will stop at '!folders!x1PPBDhxtBQ21xTT' @ 15797 : 1
-2026/01/11-12:26:58.871 9928 Compacting 1@0 + 1@1 files
-2026/01/11-12:26:58.906 9928 Generated table #2708@0: 1087 keys, 936605 bytes
-2026/01/11-12:26:58.906 9928 Compacted 1@0 + 1@1 files => 936605 bytes
-2026/01/11-12:26:58.907 9928 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/01/11-12:26:58.907 9928 Delete type=2 #2705
-2026/01/11-12:26:58.908 9928 Delete type=2 #2707
-2026/01/11-12:26:58.925 9928 Manual compaction at level-0 from '!folders!x1PPBDhxtBQ21xTT' @ 15797 : 1 .. '!folders!x1PPBDhxtBQ21xTT' @ 0 : 0; will stop at (end)
+2026/01/13-00:33:55.827 da8c Recovering log #2717
+2026/01/13-00:33:55.831 da8c Level-0 table #2721: started
+2026/01/13-00:33:55.858 da8c Level-0 table #2721: 1282949 bytes OK
+2026/01/13-00:33:55.864 da8c Delete type=0 #2717
+2026/01/13-00:33:55.865 da8c Delete type=3 #2709
+2026/01/13-00:33:56.553 f018 Compacting 1@0 + 1@1 files
+2026/01/13-00:33:56.594 f018 Generated table #2723@0: 1342 keys, 1172930 bytes
+2026/01/13-00:33:56.594 f018 Compacted 1@0 + 1@1 files => 1172930 bytes
+2026/01/13-00:33:56.596 f018 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/01/14-11:20:20.149 f018 Level-0 table #2725: started
+2026/01/14-11:20:20.220 f018 Level-0 table #2725: 1983067 bytes OK
+2026/01/14-11:20:20.224 f018 Delete type=2 #2719
+2026/01/14-11:20:20.225 f018 Delete type=2 #2721
+2026/01/14-11:20:20.226 f018 Delete type=0 #2722
+2026/01/14-12:48:30.296 f018 Compacting 1@0 + 1@1 files
+2026/01/14-12:48:30.356 f018 Generated table #2726@0: 1411 keys, 1242226 bytes
+2026/01/14-12:48:30.356 f018 Compacted 1@0 + 1@1 files => 1242226 bytes
+2026/01/14-12:48:30.357 f018 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/01/14-12:48:30.358 f018 Delete type=2 #2723
+2026/01/14-12:48:30.359 f018 Delete type=2 #2725
