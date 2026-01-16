@@ -1,3 +1,11 @@
-2026/01/15-13:38:04.965 ff50 Recovering log #2729
-2026/01/15-13:38:04.974 ff50 Delete type=0 #2729
-2026/01/15-13:38:04.975 ff50 Delete type=3 #2727
+2026/01/16-09:50:23.025 a90c Recovering log #2737
+2026/01/16-09:50:23.035 a90c Level-0 table #2740: started
+2026/01/16-09:50:23.067 a90c Level-0 table #2740: 1341534 bytes OK
+2026/01/16-09:50:23.074 a90c Delete type=0 #2737
+2026/01/16-09:50:23.075 a90c Delete type=3 #2735
+2026/01/16-09:50:23.858 bfec Compacting 1@0 + 1@1 files
+2026/01/16-09:50:23.903 bfec Generated table #2742@0: 1505 keys, 1322840 bytes
+2026/01/16-09:50:23.903 bfec Compacted 1@0 + 1@1 files => 1322840 bytes
+2026/01/16-09:50:23.904 bfec compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/01/16-09:50:23.905 bfec Delete type=2 #2738
+2026/01/16-09:50:23.905 bfec Delete type=2 #2740
