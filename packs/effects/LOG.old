@@ -1,3 +1,11 @@
-2026/01/27-23:13:30.868 9c64 Recovering log #2032
-2026/01/27-23:13:30.874 9c64 Delete type=0 #2032
-2026/01/27-23:13:30.874 9c64 Delete type=3 #2030
+2026/01/28-19:47:24.592 a1cc Recovering log #2035
+2026/01/28-19:47:24.593 a1cc Level-0 table #2037: started
+2026/01/28-19:47:24.595 a1cc Level-0 table #2037: 6438 bytes OK
+2026/01/28-19:47:24.601 a1cc Delete type=0 #2035
+2026/01/28-19:47:24.602 a1cc Delete type=3 #2034
+2026/01/28-19:47:25.291 890c Compacting 1@0 + 1@1 files
+2026/01/28-19:47:25.311 890c Generated table #2039@0: 1589 keys, 553106 bytes
+2026/01/28-19:47:25.311 890c Compacted 1@0 + 1@1 files => 553106 bytes
+2026/01/28-19:47:25.312 890c compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/01/28-19:47:25.313 890c Delete type=2 #2029
+2026/01/28-19:47:25.313 890c Delete type=2 #2037
