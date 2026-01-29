@@ -1,11 +1,11 @@
-2026/01/29-00:29:01.168 b2c Recovering log #2844
-2026/01/29-00:29:01.176 b2c Level-0 table #2847: started
-2026/01/29-00:29:01.217 b2c Level-0 table #2847: 1945222 bytes OK
-2026/01/29-00:29:01.224 b2c Delete type=0 #2844
-2026/01/29-00:29:01.225 b2c Delete type=3 #2842
-2026/01/29-00:29:01.929 afb8 Compacting 1@0 + 1@1 files
-2026/01/29-00:29:01.990 afb8 Generated table #2849@0: 1954 keys, 1734219 bytes
-2026/01/29-00:29:01.990 afb8 Compacted 1@0 + 1@1 files => 1734219 bytes
-2026/01/29-00:29:01.992 afb8 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/01/29-00:29:01.992 afb8 Delete type=2 #2845
-2026/01/29-00:29:01.992 afb8 Delete type=2 #2847
+2026/01/29-09:55:05.142 2184 Recovering log #2848
+2026/01/29-09:55:05.157 2184 Level-0 table #2851: started
+2026/01/29-09:55:05.197 2184 Level-0 table #2851: 1831993 bytes OK
+2026/01/29-09:55:05.204 2184 Delete type=0 #2848
+2026/01/29-09:55:05.205 2184 Delete type=3 #2846
+2026/01/29-09:55:06.046 6d20 Compacting 1@0 + 1@1 files
+2026/01/29-09:55:06.111 6d20 Generated table #2853@0: 1944 keys, 1740804 bytes
+2026/01/29-09:55:06.111 6d20 Compacted 1@0 + 1@1 files => 1740804 bytes
+2026/01/29-09:55:06.113 6d20 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/01/29-09:55:06.114 6d20 Delete type=2 #2849
+2026/01/29-09:55:06.115 6d20 Delete type=2 #2851
