@@ -1,26 +1,21 @@
-2026/01/29-13:40:44.052 890c Recovering log #2852
-2026/01/29-13:40:44.053 890c Level-0 table #2855: started
-2026/01/29-13:40:44.055 890c Level-0 table #2855: 221 bytes OK
-2026/01/29-13:40:44.063 890c Delete type=0 #2852
-2026/01/29-13:40:44.063 890c Delete type=3 #2850
-2026/01/29-16:04:28.447 2184 Level-0 table #2858: started
-2026/01/29-16:04:28.506 2184 Level-0 table #2858: 2123735 bytes OK
-2026/01/29-16:04:28.509 2184 Delete type=0 #2856
-2026/01/29-16:05:41.585 2184 Compacting 2@0 + 1@1 files
-2026/01/29-16:05:41.661 2184 Generated table #2859@0: 1959 keys, 1758074 bytes
-2026/01/29-16:05:41.661 2184 Compacted 2@0 + 1@1 files => 1758074 bytes
-2026/01/29-16:05:41.662 2184 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/01/29-16:05:41.663 2184 Delete type=2 #2853
-2026/01/29-16:05:41.664 2184 Delete type=2 #2855
-2026/01/29-16:05:41.664 2184 Delete type=2 #2858
-2026/01/29-18:49:44.018 2184 Level-0 table #2861: started
-2026/01/29-18:49:44.046 2184 Level-0 table #2861: 1361046 bytes OK
-2026/01/29-18:49:44.049 2184 Delete type=0 #2857
-2026/01/29-18:49:44.055 2184 Manual compaction at level-0 from '!actors!03Rnxua6aeYrHyej' @ 72057594037927935 : 1 .. '!folders!zB4ct0aMsZGqNrvB' @ 0 : 0; will stop at '!folders!jAwoD1vCb1fDub9X' @ 33795 : 1
-2026/01/29-18:49:44.055 2184 Compacting 1@0 + 1@1 files
-2026/01/29-18:49:44.112 2184 Generated table #2862@0: 1953 keys, 1760507 bytes
-2026/01/29-18:49:44.112 2184 Compacted 1@0 + 1@1 files => 1760507 bytes
-2026/01/29-18:49:44.113 2184 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/01/29-18:49:44.113 2184 Delete type=2 #2859
-2026/01/29-18:49:44.114 2184 Delete type=2 #2861
-2026/01/29-18:49:44.117 2184 Manual compaction at level-0 from '!folders!jAwoD1vCb1fDub9X' @ 33795 : 1 .. '!folders!zB4ct0aMsZGqNrvB' @ 0 : 0; will stop at (end)
+2026/01/29-18:49:50.666 890c Recovering log #2860
+2026/01/29-18:49:50.674 890c Delete type=0 #2860
+2026/01/29-18:49:50.674 890c Delete type=3 #2854
+2026/01/29-22:04:40.248 2184 Level-0 table #2866: started
+2026/01/29-22:04:40.294 2184 Level-0 table #2866: 2208697 bytes OK
+2026/01/29-22:04:40.297 2184 Delete type=0 #2864
+2026/01/29-22:07:14.625 2184 Compacting 1@0 + 1@1 files
+2026/01/29-22:07:14.681 2184 Generated table #2867@0: 1947 keys, 1763801 bytes
+2026/01/29-22:07:14.681 2184 Compacted 1@0 + 1@1 files => 1763801 bytes
+2026/01/29-22:07:14.682 2184 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/01/29-22:07:14.683 2184 Delete type=2 #2862
+2026/01/29-22:07:14.683 2184 Delete type=2 #2866
+2026/01/29-23:47:03.518 2184 Level-0 table #2869: started
+2026/01/29-23:47:03.561 2184 Level-0 table #2869: 2202734 bytes OK
+2026/01/29-23:47:03.563 2184 Delete type=0 #2865
+2026/01/29-23:50:08.901 2184 Compacting 1@0 + 1@1 files
+2026/01/29-23:50:08.968 2184 Generated table #2870@0: 1941 keys, 1759478 bytes
+2026/01/29-23:50:08.968 2184 Compacted 1@0 + 1@1 files => 1759478 bytes
+2026/01/29-23:50:08.970 2184 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/01/29-23:50:08.970 2184 Delete type=2 #2867
+2026/01/29-23:50:08.971 2184 Delete type=2 #2869
