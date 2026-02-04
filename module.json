@@ -217,7 +217,7 @@
 				{
 					"name": "Rules",
 					"sorting": "m",
-					"color": "#07bba6",
+					"color": "#20b185",
 					"packs": ["handouts","rules-features","camp-activities"]
 				},
 				{
