@@ -1,7 +1,5 @@
-2026/02/13-21:27:49.782 aea8 Recovering log #2111
-2026/02/13-21:27:49.789 aea8 Delete type=0 #2111
-2026/02/13-21:27:49.789 aea8 Delete type=3 #2109
-2026/02/13-22:48:43.648 773c Level-0 table #2116: started
-2026/02/13-22:48:43.648 773c Level-0 table #2116: 0 bytes OK
-2026/02/13-22:48:43.650 773c Delete type=0 #2114
-2026/02/13-22:48:43.664 773c Manual compaction at level-0 from '!folders!Sj6WTHpDCVZE9k3v' @ 72057594037927935 : 1 .. '!items.effects!zXj01LcnOZHMrl2W.ENJ6kGW44CHkqwIf' @ 0 : 0; will stop at (end)
+2026/02/14-01:40:55.406 9c20 Log #2118: 0 ops saved to Table #2119 OK
+2026/02/14-01:40:55.408 9c20 Archiving D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\rare-equipment/002118.log: OK
+2026/02/14-01:40:55.409 9c20 Table #2054: 208 entries OK
+2026/02/14-01:40:55.413 9c20 Archiving D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\rare-equipment/MANIFEST-002117: OK
+2026/02/14-01:40:55.419 9c20 **** Repaired leveldb D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\rare-equipment; recovered 1 files; 88392 bytes. Some data may have been lost. ****

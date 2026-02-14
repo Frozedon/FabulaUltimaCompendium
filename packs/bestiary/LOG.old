@@ -1,7 +1,5 @@
-2026/02/13-21:27:49.799 a53c Recovering log #3003
-2026/02/13-21:27:49.805 a53c Delete type=0 #3003
-2026/02/13-21:27:49.805 a53c Delete type=3 #3001
-2026/02/13-22:48:43.650 773c Level-0 table #3008: started
-2026/02/13-22:48:43.650 773c Level-0 table #3008: 0 bytes OK
-2026/02/13-22:48:43.652 773c Delete type=0 #3006
-2026/02/13-22:48:43.664 773c Manual compaction at level-0 from '!actors!03Rnxua6aeYrHyej' @ 72057594037927935 : 1 .. '!folders!zB4ct0aMsZGqNrvB' @ 0 : 0; will stop at (end)
+2026/02/14-01:40:55.441 9c20 Log #3010: 0 ops saved to Table #3011 OK
+2026/02/14-01:40:55.443 9c20 Archiving D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\bestiary/003010.log: OK
+2026/02/14-01:40:55.455 9c20 Table #2994: 2187 entries OK
+2026/02/14-01:40:55.459 9c20 Archiving D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\bestiary/MANIFEST-003009: OK
+2026/02/14-01:40:55.466 9c20 **** Repaired leveldb D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\bestiary; recovered 1 files; 1987232 bytes. Some data may have been lost. ****
