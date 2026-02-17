@@ -1,1 +1,7 @@
-2026/02/14-01:40:55.286 17c8 Delete type=3 #1
+2026/02/17-14:47:39.147 5dc8 Delete type=3 #1
+2026/02/17-14:55:38.979 12cc Compacting 2@0 + 0@1 files
+2026/02/17-14:55:38.989 12cc Generated table #3276@0: 114 keys, 110503 bytes
+2026/02/17-14:55:38.989 12cc Compacted 2@0 + 0@1 files => 110503 bytes
+2026/02/17-14:55:38.990 12cc compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/02/17-14:55:38.991 12cc Delete type=2 #3267
+2026/02/17-14:55:38.991 12cc Delete type=2 #3270

@@ -1,5 +1,5 @@
-2026/02/14-01:40:55.510 17c8 Log #253: 0 ops saved to Table #254 OK
-2026/02/14-01:40:55.512 17c8 Archiving D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\bestiary-details/000253.log: OK
-2026/02/14-01:40:55.513 17c8 Table #205: 138 entries OK
-2026/02/14-01:40:55.517 17c8 Archiving D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\bestiary-details/MANIFEST-000252: OK
-2026/02/14-01:40:55.523 17c8 **** Repaired leveldb D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\bestiary-details; recovered 1 files; 201775 bytes. Some data may have been lost. ****
+2026/02/17-14:47:39.372 1294 Log #256: 0 ops saved to Table #257 OK
+2026/02/17-14:47:39.374 1294 Archiving D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\bestiary-details/000256.log: OK
+2026/02/17-14:47:39.375 1294 Table #205: 138 entries OK
+2026/02/17-14:47:39.381 1294 Archiving D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\bestiary-details/MANIFEST-000255: OK
+2026/02/17-14:47:39.387 1294 **** Repaired leveldb D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\bestiary-details; recovered 1 files; 201775 bytes. Some data may have been lost. ****
