@@ -1,5 +1,1 @@
-2026/02/17-14:47:39.448 3878 Log #2286: 0 ops saved to Table #2287 OK
-2026/02/17-14:47:39.450 3878 Archiving D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\handouts/002286.log: OK
-2026/02/17-14:47:39.451 3878 Table #2059: 26 entries OK
-2026/02/17-14:47:39.455 3878 Archiving D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\handouts/MANIFEST-002285: OK
-2026/02/17-14:47:39.461 3878 **** Repaired leveldb D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\handouts; recovered 1 files; 40087 bytes. Some data may have been lost. ****
+2026/02/17-14:47:39.471 3878 Delete type=3 #1

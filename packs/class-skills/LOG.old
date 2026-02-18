@@ -1,6 +1,7 @@
-2026/02/17-14:47:39.119 5dc8 Log #3272: 0 ops saved to Table #3273 OK
-2026/02/17-14:47:39.120 5dc8 Archiving D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\class-skills/003272.log: OK
-2026/02/17-14:47:39.121 5dc8 Table #3267: 132 entries OK
-2026/02/17-14:47:39.122 5dc8 Table #3270: 166 entries OK
-2026/02/17-14:47:39.127 5dc8 Archiving D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\class-skills/MANIFEST-003271: OK
-2026/02/17-14:47:39.133 5dc8 **** Repaired leveldb D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\class-skills; recovered 2 files; 210788 bytes. Some data may have been lost. ****
+2026/02/17-14:47:39.147 5dc8 Delete type=3 #1
+2026/02/17-14:55:38.979 12cc Compacting 2@0 + 0@1 files
+2026/02/17-14:55:38.989 12cc Generated table #3276@0: 114 keys, 110503 bytes
+2026/02/17-14:55:38.989 12cc Compacted 2@0 + 0@1 files => 110503 bytes
+2026/02/17-14:55:38.990 12cc compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/02/17-14:55:38.991 12cc Delete type=2 #3267
+2026/02/17-14:55:38.991 12cc Delete type=2 #3270
