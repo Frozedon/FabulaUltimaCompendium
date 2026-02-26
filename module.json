@@ -215,31 +215,31 @@
 				{
 					"name": "Character Creation",
 					"sorting": "m",
-					"color": "#2e8f28",
+					"color": "#276625",
 					"packs": ["classes", "class-skills", "heroic-skills"]
 				},
 				{
 					"name": "Equipment",
 					"sorting": "m",
-					"color": "#0570bd",
+					"color": "#005390",
 					"packs": ["basic-equipment", "consumables", "rare-equipment"]
 				},
 				{
 					"name": "Rules",
 					"sorting": "m",
-					"color": "#20b185",
+					"color": "#1d8b6a",
 					"packs": ["handouts","rules-features","camp-activities"]
 				},
 				{
 					"name": "GM Tools",
 					"sorting": "m",
-					"color": "#b01703",
+					"color": "#831101",
 					"packs": ["bestiary", "bestiary-details", "npc-skills"]
 				},
 				{
 					"name": "Technical",
 					"sorting": "m",
-					"color": "#bd8e0f",
+					"color": "#8b5c00",
 					"packs": ["effects", "rollable-tables", "animation-macros"]
 				}
 			]
