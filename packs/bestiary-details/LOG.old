@@ -1,3 +1,6 @@
-2026/03/04-12:16:33.608 3238 Recovering log #369
-2026/03/04-12:16:33.632 3238 Delete type=0 #369
-2026/03/04-12:16:33.632 3238 Delete type=3 #368
+2026/03/04-23:26:58.771 11a8 Log #373: 2 ops saved to Table #374 OK
+2026/03/04-23:26:58.773 11a8 Archiving D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\bestiary-details/000373.log: OK
+2026/03/04-23:26:58.774 11a8 Table #273: 138 entries OK
+2026/03/04-23:26:58.775 11a8 Table #374: 2 entries OK
+2026/03/04-23:26:58.780 11a8 Archiving D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\bestiary-details/MANIFEST-000372: OK
+2026/03/04-23:26:58.786 11a8 **** Repaired leveldb D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\bestiary-details; recovered 2 files; 206749 bytes. Some data may have been lost. ****
