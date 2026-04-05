@@ -1,7 +1,14 @@
-2026/03/04-23:26:58.527 3e60 Log #2858: 18 ops saved to Table #2859 OK
-2026/03/04-23:26:58.530 3e60 Archiving D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\heroic-skills/002858.log: OK
-2026/03/04-23:26:58.530 3e60 Table #2757: 48 entries OK
-2026/03/04-23:26:58.531 3e60 Table #2857: 3 entries OK
-2026/03/04-23:26:58.531 3e60 Table #2859: 18 entries OK
-2026/03/04-23:26:58.535 3e60 Archiving D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\heroic-skills/MANIFEST-002856: OK
-2026/03/04-23:26:58.543 3e60 **** Repaired leveldb D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\heroic-skills; recovered 3 files; 53552 bytes. Some data may have been lost. ****
+2026/04/04-20:03:35.144 bfc8 Recovering log #2904
+2026/04/04-20:03:35.151 bfc8 Delete type=0 #2904
+2026/04/04-20:03:35.152 bfc8 Delete type=3 #2903
+2026/04/04-20:10:34.968 9664 Level-0 table #2908: started
+2026/04/04-20:10:34.970 9664 Level-0 table #2908: 19129 bytes OK
+2026/04/04-20:10:34.972 9664 Delete type=0 #2906
+2026/04/04-20:10:34.972 9664 Manual compaction at level-0 from '!folders!GeuNlLiqWaNndIK4' @ 72057594037927935 : 1 .. '!items!xDuyRB6CIm6eVMGw' @ 0 : 0; will stop at '!items!wkPTY9cXafBPI7Ww' @ 3109 : 1
+2026/04/04-20:10:34.972 9664 Compacting 1@0 + 1@1 files
+2026/04/04-20:10:34.976 9664 Generated table #2909@0: 49 keys, 39992 bytes
+2026/04/04-20:10:34.976 9664 Compacted 1@0 + 1@1 files => 39992 bytes
+2026/04/04-20:10:34.977 9664 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/04/04-20:10:34.978 9664 Delete type=2 #2886
+2026/04/04-20:10:34.978 9664 Delete type=2 #2908
+2026/04/04-20:10:34.984 9664 Manual compaction at level-0 from '!items!wkPTY9cXafBPI7Ww' @ 3109 : 1 .. '!items!xDuyRB6CIm6eVMGw' @ 0 : 0; will stop at (end)

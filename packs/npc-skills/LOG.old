@@ -1,5 +1,7 @@
-2026/03/04-23:26:58.810 3e60 Log #2393: 0 ops saved to Table #2394 OK
-2026/03/04-23:26:58.812 3e60 Archiving D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\npc-skills/002393.log: OK
-2026/03/04-23:26:58.813 3e60 Table #2375: 108 entries OK
-2026/03/04-23:26:58.818 3e60 Archiving D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\npc-skills/MANIFEST-002392: OK
-2026/03/04-23:26:58.824 3e60 **** Repaired leveldb D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\npc-skills; recovered 1 files; 52378 bytes. Some data may have been lost. ****
+2026/04/04-20:03:35.278 bfc8 Recovering log #2439
+2026/04/04-20:03:35.284 bfc8 Delete type=0 #2439
+2026/04/04-20:03:35.284 bfc8 Delete type=3 #2438
+2026/04/04-20:10:34.987 9664 Level-0 table #2443: started
+2026/04/04-20:10:34.987 9664 Level-0 table #2443: 0 bytes OK
+2026/04/04-20:10:34.989 9664 Delete type=0 #2441
+2026/04/04-20:10:34.995 9664 Manual compaction at level-0 from '!folders!1bpLpiLKFSPmDgai' @ 72057594037927935 : 1 .. '!items.effects!zbhQAJ2RYVl5Wup6.GBP092w8FpmupARI' @ 0 : 0; will stop at (end)
