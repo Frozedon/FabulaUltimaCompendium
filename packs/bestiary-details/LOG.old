@@ -1,5 +1,13 @@
-2026/06/04-09:59:59.289 6c44 Log #605: 0 ops saved to Table #606 OK
-2026/06/04-09:59:59.291 6c44 Archiving D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\bestiary-details/000605.log: OK
-2026/06/04-09:59:59.293 6c44 Table #503: 138 entries OK
-2026/06/04-09:59:59.298 6c44 Archiving D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\bestiary-details/MANIFEST-000604: OK
-2026/06/04-09:59:59.305 6c44 **** Repaired leveldb D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\bestiary-details; recovered 1 files; 201802 bytes. Some data may have been lost. ****
+2026/06/04-10:11:35.236 c30c Recovering log #608
+2026/06/04-10:11:35.243 c30c Delete type=0 #608
+2026/06/04-10:11:35.244 c30c Delete type=3 #607
+2026/06/04-12:39:09.711 c32c Level-0 table #612: started
+2026/06/04-12:39:09.711 c32c Level-0 table #612: 0 bytes OK
+2026/06/04-12:39:09.713 c32c Delete type=0 #610
+2026/06/04-12:39:09.746 c32c Manual compaction at level-0 from '!journal!0y8dZJ6jGEC4xt9F' @ 72057594037927935 : 1 .. '!journal.pages!z7RuKb9aSR6JzuPV.SpNQ7XBSBoElL4LQ' @ 0 : 0; will stop at '!journal.pages!z7RuKb9aSR6JzuPV.SpNQ7XBSBoElL4LQ' @ 664 : 1
+2026/06/04-12:39:09.746 c32c Compacting 1@0 + 0@1 files
+2026/06/04-12:39:09.755 c32c Generated table #613@0: 138 keys, 201802 bytes
+2026/06/04-12:39:09.755 c32c Compacted 1@0 + 0@1 files => 201802 bytes
+2026/06/04-12:39:09.757 c32c compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/06/04-12:39:09.757 c32c Delete type=2 #503
+2026/06/04-12:39:09.841 c32c Manual compaction at level-0 from '!journal.pages!z7RuKb9aSR6JzuPV.SpNQ7XBSBoElL4LQ' @ 664 : 1 .. '!journal.pages!z7RuKb9aSR6JzuPV.SpNQ7XBSBoElL4LQ' @ 0 : 0; will stop at (end)

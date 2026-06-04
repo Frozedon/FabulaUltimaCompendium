@@ -1,5 +1,13 @@
-2026/06/04-09:59:59.590 12ec Log #3261: 0 ops saved to Table #3262 OK
-2026/06/04-09:59:59.593 12ec Archiving D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\animation-macros/003261.log: OK
-2026/06/04-09:59:59.593 12ec Table #3059: 28 entries OK
-2026/06/04-09:59:59.597 12ec Archiving D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\animation-macros/MANIFEST-003260: OK
-2026/06/04-09:59:59.603 12ec **** Repaired leveldb D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\animation-macros; recovered 1 files; 25296 bytes. Some data may have been lost. ****
+2026/06/04-10:11:35.354 c1c8 Recovering log #3264
+2026/06/04-10:11:35.361 c1c8 Delete type=0 #3264
+2026/06/04-10:11:35.361 c1c8 Delete type=3 #3263
+2026/06/04-12:39:09.898 c32c Level-0 table #3268: started
+2026/06/04-12:39:09.898 c32c Level-0 table #3268: 0 bytes OK
+2026/06/04-12:39:09.900 c32c Delete type=0 #3266
+2026/06/04-12:39:09.905 c32c Manual compaction at level-0 from '!folders!CKVCLHuM1iNxCEvn' @ 72057594037927935 : 1 .. '!macros!yEGzlneMr4Jict6y' @ 0 : 0; will stop at '!macros!yEGzlneMr4Jict6y' @ 673 : 1
+2026/06/04-12:39:09.905 c32c Compacting 1@0 + 0@1 files
+2026/06/04-12:39:09.908 c32c Generated table #3269@0: 28 keys, 25296 bytes
+2026/06/04-12:39:09.908 c32c Compacted 1@0 + 0@1 files => 25296 bytes
+2026/06/04-12:39:09.910 c32c compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/06/04-12:39:09.911 c32c Delete type=2 #3059
+2026/06/04-12:39:09.919 c32c Manual compaction at level-0 from '!macros!yEGzlneMr4Jict6y' @ 673 : 1 .. '!macros!yEGzlneMr4Jict6y' @ 0 : 0; will stop at (end)

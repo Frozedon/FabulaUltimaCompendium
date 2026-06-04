@@ -1,5 +1,13 @@
-2026/06/04-09:59:59.553 1cb0 Log #2660: 0 ops saved to Table #2661 OK
-2026/06/04-09:59:59.556 1cb0 Archiving D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\rollable-tables/002660.log: OK
-2026/06/04-09:59:59.556 1cb0 Table #2458: 101 entries OK
-2026/06/04-09:59:59.561 1cb0 Archiving D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\rollable-tables/MANIFEST-002659: OK
-2026/06/04-09:59:59.567 1cb0 **** Repaired leveldb D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\rollable-tables; recovered 1 files; 27488 bytes. Some data may have been lost. ****
+2026/06/04-10:11:35.339 c30c Recovering log #2663
+2026/06/04-10:11:35.346 c30c Delete type=0 #2663
+2026/06/04-10:11:35.346 c30c Delete type=3 #2662
+2026/06/04-12:39:09.903 c32c Level-0 table #2667: started
+2026/06/04-12:39:09.903 c32c Level-0 table #2667: 0 bytes OK
+2026/06/04-12:39:09.905 c32c Delete type=0 #2665
+2026/06/04-12:39:09.911 c32c Manual compaction at level-0 from '!folders!3BySTIzqxWCA0EzJ' @ 72057594037927935 : 1 .. '!tables.results!vxUWV6TJAYvMQYYe.wwM4KmbXTJ2MPwYA' @ 0 : 0; will stop at '!tables.results!vxUWV6TJAYvMQYYe.wwM4KmbXTJ2MPwYA' @ 3411 : 1
+2026/06/04-12:39:09.911 c32c Compacting 1@0 + 0@1 files
+2026/06/04-12:39:09.915 c32c Generated table #2668@0: 101 keys, 27488 bytes
+2026/06/04-12:39:09.915 c32c Compacted 1@0 + 0@1 files => 27488 bytes
+2026/06/04-12:39:09.916 c32c compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/06/04-12:39:09.917 c32c Delete type=2 #2458
+2026/06/04-12:39:09.922 c32c Manual compaction at level-0 from '!tables.results!vxUWV6TJAYvMQYYe.wwM4KmbXTJ2MPwYA' @ 3411 : 1 .. '!tables.results!vxUWV6TJAYvMQYYe.wwM4KmbXTJ2MPwYA' @ 0 : 0; will stop at (end)
