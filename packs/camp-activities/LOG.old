@@ -1,3 +1,5 @@
-2026/06/04-01:00:35.658 b77c Recovering log #1720
-2026/06/04-01:00:35.665 b77c Delete type=0 #1720
-2026/06/04-01:00:35.665 b77c Delete type=3 #1719
+2026/06/04-09:59:59.474 12ec Log #1724: 0 ops saved to Table #1725 OK
+2026/06/04-09:59:59.476 12ec Archiving D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\camp-activities/001724.log: OK
+2026/06/04-09:59:59.477 12ec Table #1522: 38 entries OK
+2026/06/04-09:59:59.481 12ec Archiving D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\camp-activities/MANIFEST-001723: OK
+2026/06/04-09:59:59.487 12ec **** Repaired leveldb D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\camp-activities; recovered 1 files; 15067 bytes. Some data may have been lost. ****

@@ -1,3 +1,6 @@
-2026/06/04-01:00:35.612 2c80 Recovering log #2619
-2026/06/04-01:00:35.619 2c80 Delete type=0 #2619
-2026/06/04-01:00:35.620 2c80 Delete type=3 #2618
+2026/06/04-09:59:59.330 1cb0 Log #2623: 3 ops saved to Table #2624 OK
+2026/06/04-09:59:59.332 1cb0 Archiving D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\npc-skills/002623.log: OK
+2026/06/04-09:59:59.333 1cb0 Table #2421: 108 entries OK
+2026/06/04-09:59:59.333 1cb0 Table #2624: 3 entries OK
+2026/06/04-09:59:59.338 1cb0 Archiving D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\npc-skills/MANIFEST-002622: OK
+2026/06/04-09:59:59.344 1cb0 **** Repaired leveldb D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\npc-skills; recovered 2 files; 54004 bytes. Some data may have been lost. ****

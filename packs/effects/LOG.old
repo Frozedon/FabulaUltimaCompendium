@@ -1,3 +1,5 @@
-2026/06/04-01:00:35.672 9100 Recovering log #2559
-2026/06/04-01:00:35.679 9100 Delete type=0 #2559
-2026/06/04-01:00:35.679 9100 Delete type=3 #2558
+2026/06/04-09:59:59.509 12ec Log #2555: 0 ops saved to Table #2556 OK
+2026/06/04-09:59:59.511 12ec Archiving D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\effects/002555.log: OK
+2026/06/04-09:59:59.513 12ec Table #2337: 1029 entries OK
+2026/06/04-09:59:59.518 12ec Archiving D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\effects/MANIFEST-002554: OK
+2026/06/04-09:59:59.525 12ec **** Repaired leveldb D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\effects; recovered 1 files; 327546 bytes. Some data may have been lost. ****

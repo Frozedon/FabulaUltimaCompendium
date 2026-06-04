@@ -1,3 +1,6 @@
-2026/06/04-01:00:35.546 9100 Recovering log #2466
-2026/06/04-01:00:35.552 9100 Delete type=0 #2466
-2026/06/04-01:00:35.553 9100 Delete type=3 #2465
+2026/06/04-09:59:59.175 1cb0 Log #2470: 0 ops saved to Table #2471 OK
+2026/06/04-09:59:59.178 1cb0 Archiving D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\rare-equipment/002470.log: OK
+2026/06/04-09:59:59.179 1cb0 Table #2267: 208 entries OK
+2026/06/04-09:59:59.179 1cb0 Table #2463: 4 entries OK
+2026/06/04-09:59:59.184 1cb0 Archiving D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\rare-equipment/MANIFEST-002469: OK
+2026/06/04-09:59:59.190 1cb0 **** Repaired leveldb D:\FoundryVTT\v13\Data\modules\frozedon-fabula-compendium\packs\rare-equipment; recovered 2 files; 85523 bytes. Some data may have been lost. ****
